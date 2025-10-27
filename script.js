@@ -62,4 +62,3 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // Mobile menu toggle (if needed in future)
-console.log('Portfolio website loaded successfully!');
